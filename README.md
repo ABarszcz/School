@@ -1,3 +1,3 @@
 # School
 
-This repository is for college / schoolwork to show examples of my code.
+Very old repository containing a couple of final assignments.
